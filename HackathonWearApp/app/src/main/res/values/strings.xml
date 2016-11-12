@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackathonWearApp</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="button_text">Press Me!</string>
+    <string name="subtitle_text">Hello Everyone!</string>
+</resources>
